@@ -4728,7 +4728,7 @@ if (typeof module !== 'undefined' && typeof exports !== 'undefined' &&
              *
              *  - `data` – `{Customer=}` -
              *
-             *  - `cursor` – `{Number=}` -
+             *  - `cursor` – `{number=}` -
              */
             "getSubscribedCustomer": {
               url: urlBase + "/Customers/getSubscribedCustomer",
