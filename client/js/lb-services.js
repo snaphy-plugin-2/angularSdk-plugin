@@ -4763,10 +4763,9 @@ if (typeof module !== 'undefined' && typeof exports !== 'undefined' &&
              *   populated with the actual data once the response is returned
              *   from the server.
              *
-             * <em>
-             * (The remote method definition does not provide any description.
-             * This usually means the response is a `Customer` object.)
-             * </em>
+             * Data properties:
+             *
+             *  - `count` – `{number=}` -
              */
             "countSubscribedCustomer": {
               url: urlBase + "/Customers/countSubscribedCustomer",
@@ -4919,10 +4918,9 @@ if (typeof module !== 'undefined' && typeof exports !== 'undefined' &&
              *   populated with the actual data once the response is returned
              *   from the server.
              *
-             * <em>
-             * (The remote method definition does not provide any description.
-             * This usually means the response is a `Customer` object.)
-             * </em>
+             * Data properties:
+             *
+             *  - `count` – `{number=}` -
              */
             "countCustomer": {
               url: urlBase + "/Customers/countCustomer",
