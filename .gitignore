@@ -17,3 +17,4 @@
 coverage
 npm-debug.log
 docular_generated/
+node_modules/
